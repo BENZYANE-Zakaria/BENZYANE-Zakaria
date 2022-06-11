@@ -32,9 +32,7 @@ My name is BENZYANE Zakaria , a young full stack developer,
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-  ![JAVA](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 - 🛢 &nbsp;
   ![SQL](https://img.shields.io/badge/-sql-333333?style=flat&logo=sql)
 - ⚙️ &nbsp;
