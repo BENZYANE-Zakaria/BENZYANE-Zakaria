@@ -46,8 +46,7 @@ My name is BENZYANE Zakaria , a young full stack developer,
 
 
 ##  🤝🏻 &nbsp;Connect with Me
-https://www.linkedin.com/in/zakaria-benzyane-63684aa6/
 
 <p align="center">
-<a href="https://www.linkedin.com/in/zakaria-benzyane-63684aa6/"><img src="https://img.shields.io/badge/-zakaria%20benzyane-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/zakaria-benzyane-63684aa6/"><img src="https://img.shields.io/badge/-Zakaria%20BENZYANE-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:zakaria.benzyane@gmail.com"><img src="https://img.shields.io/badge/-zakaria.benzyane@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
