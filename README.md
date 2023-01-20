@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### 💻 &nbsp;About Me 
 <!-- ![](https://komarev.com/ghpvc/?username=kourmouOmar)-->
 
-My name is BENZYANE Zakaria , a young DotNet developer, 
+My name is BENZYANE Zakaria ,  DotNet Engineer, 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our world tech problems.
 - 🎓 &nbsp; Studying Software Engineering .
