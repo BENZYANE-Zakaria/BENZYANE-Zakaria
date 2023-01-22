@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 My name is BENZYANE Zakaria ,  DotNet Engineer, 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our world tech problems.
-- 🎓 &nbsp; Studying Software Engineering .
+- 🎓 &nbsp; Studied data engineering and software development.
 
 
 ### 🛠 &nbsp;Tech Stack
